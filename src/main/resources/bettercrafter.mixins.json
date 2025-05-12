@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "net.UlasuNoka.bettercrafter.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"CrafterBlockMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
