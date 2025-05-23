@@ -3,7 +3,8 @@
 ![Crafter block](src/main/resources/assets/bettercrafter/icon.png)
 
 [![Static Badge](https://img.shields.io/badge/Version-1.0.0--1.21.4-green)](CHANGELOG.md)
-[![Modrinth](https://img.shields.io/static/v1?label=Modrinth&message=also available on&labelColor=1e1e1e&color=1bd96a&logo=modrinth&logoColor=1bd96a&style=for-the-badge)](https://modrinth.com/mod/better-crafter-\(for-fabric\))[![CurseForge](https://img.shields.io/static/v1?label=CurseForge&message=also%20available%20on&labelColor=1e1e1e&color=f16436&logo=curseforge&logoColor=f16436&style=for-the-badge)](https://www.curseforge.com/minecraft/mc-mods/better-crafter-for-fabric)
+[![Modrinth](https://img.shields.io/static/v1?label=Modrinth&message=also%20available%20on&labelColor=1e1e1e&color=1bd96a&logo=modrinth&logoColor=1bd96a&style=for-the-badge)](https://modrinth.com/mod/better-crafter-for-fabric)
+[![CurseForge](https://img.shields.io/static/v1?label=CurseForge&message=also%20available%20on&labelColor=1e1e1e&color=f16436&logo=curseforge&logoColor=f16436&style=for-the-badge)](https://www.curseforge.com/minecraft/mc-mods/better-crafter-for-fabric)
 
 
 **Take full control of your automatic crafting!**
